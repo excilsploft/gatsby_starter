@@ -106,9 +106,6 @@ const IndexPage = () => {
         <br />
       </h1>
       <p style={paragraphStyles}>
-        This is to test some integration work
-      </p>
-      <p style={paragraphStyles}>
         Greetings Pat, John and Euan
       </p>
       <ul style={listStyles}>
